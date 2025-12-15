@@ -151,7 +151,3 @@ dataset/ : Données
 
 👨‍💻 Auteur
 Ibrahima - GitHub
-
-text
-
-Choisis la version que tu préfères ! La première est plus complète, la seconde plus simple.
